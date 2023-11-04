@@ -1,0 +1,12 @@
+how to solve below problem in golang?
+
+bookstore_router.go:5:2: malformed import path "github.com/sam0307/go-bookstore/pkg/controllers/": trailing slash
+package command-line-arguments is not a main package
+
+How to solve below problem in golang?
+
+2023/10/08 00:18:48 listen tcp 127.0.0.1:3306: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+exit status 1
+
+To solve the above problem in main.go file change the pory number
+to replace 3306
